@@ -20,7 +20,7 @@ Update the `script.js` to get prediction from your own API hosted on GCP:
 ```js
 // script.js
 
-const taxiFareApiUrl = 'https://YOUR_API_URL/predict_fare';
+const taxiFareApiUrl = 'https://taxifare.lewagon.ai/predict_fare';
 ```
 
 _Note: the following setup steps are optional as you can use Algolia and Mapbox credentials given by Le Wagon_
